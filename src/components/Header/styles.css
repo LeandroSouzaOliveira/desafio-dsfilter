@@ -1,0 +1,25 @@
+#header-general {
+  background-color: var(--color-header-bg);
+  height: 70px;
+  display: flex;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.content-title {
+  color: var(--color-header-font-title);
+  font-size: 20px;
+}
+
+.content-quantity {
+  color: var(--color-header-font-quantity);
+  font-size: 12px;
+}
+
+.test {
+  border: 1px solid red;
+}

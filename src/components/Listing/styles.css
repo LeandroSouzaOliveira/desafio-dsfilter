@@ -1,0 +1,22 @@
+.listing-card {
+  background-color: var(--color-listingbody-bg-card);
+  border: 1px solid var(--color-listing-card-border);
+  border-radius: 5px;
+  height: 55px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.listing-card-content {
+  padding: 10px;
+}
+
+.listing-card-content p {
+  color: var(--color-listing-font-title);
+  font-size: 12px;
+}
+
+.listing-card-content h3 {
+  color: var(--color-listing-font-price);
+  font-size: 16px;
+}

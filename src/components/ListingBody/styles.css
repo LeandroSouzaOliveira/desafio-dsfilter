@@ -1,0 +1,12 @@
+#listing-section {
+  background-color: var(--color-listingbody-bg-card);
+  min-height: 408px;
+  border-radius: 5px;
+}
+
+.listing-products {
+  display: grid;
+  grid-gap: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
