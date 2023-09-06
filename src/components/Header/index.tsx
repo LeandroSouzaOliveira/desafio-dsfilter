@@ -1,3 +1,4 @@
+import ListingCount from "../ListingCount";
 import "./styles.css";
 
 export default function Header() {
@@ -5,7 +6,7 @@ export default function Header() {
     <header id="header-general">
       <div className="container content">
         <h1 className="content-title">DSFilter</h1>
-        <div className="content-quantity">6 produto(s)</div>
+        <ListingCount />
       </div>
     </header>
   );

@@ -14,12 +14,3 @@
   color: var(--color-header-font-title);
   font-size: 20px;
 }
-
-.content-quantity {
-  color: var(--color-header-font-quantity);
-  font-size: 12px;
-}
-
-.test {
-  border: 1px solid red;
-}
